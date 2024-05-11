@@ -5,8 +5,7 @@
 }
 
 body {
-  background-colour:;
-    #0D0D3C;
+  background-colour: #0D0D3C;
   height: 100vh;
   display: flex;
   flex-direction: column;
